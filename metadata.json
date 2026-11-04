@@ -1,0 +1,6 @@
+{
+  "name": "IBONDA - Real Estate Agency Management & Automation SaaS",
+  "description": "منظومة ذكية متكاملة لإدارة الوكالات العقارية وأتمتة التواصل وتأهيل العملاء وجدولة المعاينات في المغرب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
